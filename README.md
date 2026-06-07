@@ -71,6 +71,7 @@ The script will:
 - Silence detection uses configurable thresholds defined in the script
 
 ## Example Output Filename
+![Example Output](screenshot.png)
 mp3db_20260607194530.xlsx
 
 ## Possible Future Improvements
