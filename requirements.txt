@@ -1,0 +1,11 @@
+Requirements
+
+This script uses the following Python libraries:
+
+- pandas>=2.0
+- pycountry>=24.0
+- mutagen>=1.47
+- pydub>=0.25
+- numpy>=1.24
+- librosa>=0.10
+- openpyxl>=3.1
